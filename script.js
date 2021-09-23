@@ -1,7 +1,7 @@
 let container = document.getElementById("container");
 let text = document.getElementById("text");
 
-let totalTime = 7500;
+let totalTime = 10000;
 let breatheTime = (totalTime/5) * 2;
 let holdTime = totalTime/5;
 
